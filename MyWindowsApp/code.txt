@@ -1,4 +1,1 @@
-main() {
-}
-
-Added during git workshop
+Happy Easters!
