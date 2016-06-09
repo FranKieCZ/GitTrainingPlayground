@@ -1,1 +1,4 @@
-Happy Easters!
+main() {
+}
+
+Added during git workshop
